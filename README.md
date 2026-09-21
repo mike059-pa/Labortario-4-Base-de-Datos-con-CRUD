@@ -221,3 +221,28 @@ Las principales clases utilizadas son:
 Conexion
 Producto
 Form1
+
+
+## Instrucciones de Ejecución / Uso
+
+### 1. Descargar el proyecto
+
+El proyecto se encuentra comprimido en **7 partes RAR**. Es necesario descargar **las 7 partes** y colocarlas en la misma carpeta antes de iniciar la extracción.
+
+Las partes deben tener una estructura similar a:
+
+```text
+Laboratorio_4.part1.rar
+Laboratorio_4.part2.rar
+Laboratorio_4.part3.rar
+Laboratorio_4.part4.rar
+Laboratorio_4.part5.rar
+Laboratorio_4.part6.rar
+Laboratorio_4.part7.rar
+```
+# Autor y Contexto
+
+Nombre: Michael Hunt
+Materia: HPA III
+Institución: Universidad Tecnológica de Panamá (UTP)
+Fecha de Realización: [21/09/2026]
