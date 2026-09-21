@@ -37,6 +37,19 @@ El proyecto está compuesto principalmente por las clases `Conexion` y `Producto
 - **Control de versiones:** Git / GitHub
 
 ---
+## 🗄️ Implementación y Uso de SQL Server
+
+Para la persistencia de los datos, se utilizó **Microsoft SQL Server** conectado a través de ADO.NET. El manejo de la base de datos destaca por las siguientes prácticas:
+
+1. **Estructura de la Tabla:** Se utilizó el tipo de dato `VARBINARY(MAX)` para almacenar las imágenes directamente en la base de datos, garantizando que la información visual viaje junto con los datos del producto.
+   ```sql
+   CREATE TABLE productos (
+       id INT IDENTITY(1,1) PRIMARY KEY,
+       nombre VARCHAR(100) NOT NULL,
+       precio DECIMAL(10,2) NOT NULL,
+       cantidad INT NOT NULL,
+       imagen VARBINARY(MAX) NULL
+   );
 
 ## Capturas de Pantalla y Problemas
 
