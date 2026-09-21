@@ -71,9 +71,8 @@ Además, se incluye un campo de búsqueda y un `DataGridView` para mostrar los p
 
 #### Interfaz Principal
 
-<!-- Colocar aquí la captura de pantalla de la interfaz principal -->
+<img width="785" height="657" alt="image" src="https://github.com/user-attachments/assets/486f9cee-6d81-4069-bb79-e16effa8f91f" />
 
-![Interfaz Principal](./capturas/interfaz-principal.png)
 
 ---
 
@@ -87,15 +86,18 @@ Después de realizar correctamente la operación, los datos se limpian y el `Dat
 
 #### Captura del proceso de agregar
 
-<!-- Colocar aquí la captura de pantalla del producto antes o durante el registro -->
+<img width="766" height="647" alt="image" src="https://github.com/user-attachments/assets/2d65749f-286e-4ae1-a27b-1d2bb98ee601" />
 
-![Agregar Producto](./capturas/agregar-producto.png)
+
+<img width="950" height="657" alt="image" src="https://github.com/user-attachments/assets/78312b52-c37f-40b9-b2c9-a25f538bf381" />
+
 
 #### Producto agregado
 
 <!-- Colocar aquí la captura mostrando el producto registrado en el DataGridView -->
 
-![Producto Agregado](./capturas/producto-agregado.png)
+<img width="801" height="660" alt="image" src="https://github.com/user-attachments/assets/0c23924e-202b-414e-be35-53948394a0dc" />
+
 
 ---
 
@@ -109,9 +111,10 @@ Después de realizar la actualización, el sistema refresca el contenido del `Da
 
 #### Captura del proceso de modificación
 
-<!-- Colocar aquí la captura de la modificación -->
 
-![Modificar Producto](./capturas/modificar-producto.png)
+<img width="947" height="667" alt="image" src="https://github.com/user-attachments/assets/0efeb36f-be12-4ecb-bb7f-83223764c53d" />
+
+
 
 ---
 
@@ -125,13 +128,16 @@ Antes de realizar la eliminación, el programa presenta un mensaje de confirmaci
 
 <!-- Colocar aquí la captura del mensaje de confirmación -->
 
-![Confirmar Eliminación](./capturas/confirmar-eliminacion.png)
+<img width="1002" height="686" alt="image" src="https://github.com/user-attachments/assets/17a55f0a-eccc-4f5b-b053-9ae4fe7c8e8a" />
+
+<img width="941" height="652" alt="image" src="https://github.com/user-attachments/assets/3825e696-4b6e-4ff4-96a7-54588468b7da" />
 
 #### Resultado de la eliminación
 
 <!-- Colocar aquí la captura después de eliminar el producto -->
 
-![Producto Eliminado](./capturas/producto-eliminado.png)
+<img width="782" height="662" alt="image" src="https://github.com/user-attachments/assets/722422f3-76f5-4c35-a3fa-9a86f9c55fd4" />
+
 
 ---
 
@@ -143,9 +149,8 @@ La búsqueda se ejecuta mientras el usuario escribe y permite realizar consultas
 
 #### Captura de la búsqueda
 
-<!-- Colocar aquí la captura de pantalla de la búsqueda -->
 
-![Búsqueda de Productos](./capturas/busqueda-productos.png)
+<img width="775" height="652" alt="image" src="https://github.com/user-attachments/assets/2ada1146-06e1-4bc1-a8b2-8626707af136" />
 
 ---
 
@@ -166,9 +171,9 @@ La imagen seleccionada se muestra en el `PictureBox` antes de ser almacenada en 
 
 <!-- Colocar aquí la captura del explorador de archivos o de la imagen seleccionada -->
 
-![Selección de Imagen](./capturas/seleccion-imagen.png)
 
----
+---<img width="776" height="660" alt="image" src="https://github.com/user-attachments/assets/54f3bc76-4551-470f-bdd0-a42b15d50934" />
+
 
 ### 7. Almacenamiento de Imágenes
 
@@ -182,21 +187,10 @@ Cuando los productos son consultados nuevamente, la imagen es reconstruida para 
 
 <!-- Colocar aquí la captura mostrando la imagen dentro del DataGridView -->
 
-![Imagen del Producto](./capturas/imagen-producto.png)
+<img width="785" height="637" alt="image" src="https://github.com/user-attachments/assets/399d3382-0fc6-44c2-82e7-d519978a9dde" />
 
----
 
-### 8. Botón Limpiar
 
-El botón **Limpiar** permite borrar los datos introducidos en los campos del formulario, restablecer la imagen predeterminada y quitar la selección actual del `DataGridView`.
-
-#### Captura del botón Limpiar
-
-<!-- Colocar aquí la captura del formulario después de utilizar Limpiar -->
-
-![Limpiar Campos](./capturas/limpiar.png)
-
----
 
 ### 9. Botón Salir
 
@@ -208,7 +202,8 @@ Antes de finalizar el programa, se muestra un mensaje de confirmación para veri
 
 <!-- Colocar aquí la captura del mensaje de confirmación -->
 
-![Confirmar Salida](./capturas/confirmar-salida.png)
+<img width="777" height="657" alt="image" src="https://github.com/user-attachments/assets/2f519b0b-6cd4-4057-a854-070896a4c7ca" />
+
 
 ---
 
