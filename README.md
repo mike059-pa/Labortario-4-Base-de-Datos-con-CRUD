@@ -217,7 +217,7 @@ Se utilizaron clases para organizar la estructura y funcionamiento de la aplicac
 
 Las principales clases utilizadas son:
 
-```text
+
 Conexion
 Producto
 Form1
