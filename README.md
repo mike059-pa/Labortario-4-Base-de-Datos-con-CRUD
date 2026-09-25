@@ -231,7 +231,7 @@ El proyecto se encuentra comprimido en **7 partes RAR**. Es necesario descargar 
 
 Las partes deben tener una estructura similar a:
 
-```text
+
 Laboratorio_4.part1.rar
 Laboratorio_4.part2.rar
 Laboratorio_4.part3.rar
@@ -239,7 +239,7 @@ Laboratorio_4.part4.rar
 Laboratorio_4.part5.rar
 Laboratorio_4.part6.rar
 Laboratorio_4.part7.rar
-```
+
 # Autor y Contexto
 
 Nombre: Michael Hunt
